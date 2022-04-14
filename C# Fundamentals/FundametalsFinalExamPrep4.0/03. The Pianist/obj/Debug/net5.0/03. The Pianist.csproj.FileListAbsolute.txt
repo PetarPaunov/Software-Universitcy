@@ -1,0 +1,16 @@
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\bin\Debug\net5.0\03. The Pianist.exe
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\bin\Debug\net5.0\03. The Pianist.deps.json
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\bin\Debug\net5.0\03. The Pianist.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\bin\Debug\net5.0\03. The Pianist.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\bin\Debug\net5.0\03. The Pianist.dll
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\bin\Debug\net5.0\ref\03. The Pianist.dll
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\bin\Debug\net5.0\03. The Pianist.pdb
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\obj\Debug\net5.0\03. The Pianist.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\obj\Debug\net5.0\03. The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\obj\Debug\net5.0\03. The Pianist.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\obj\Debug\net5.0\03. The Pianist.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\obj\Debug\net5.0\03. The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\obj\Debug\net5.0\03. The Pianist.dll
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\obj\Debug\net5.0\ref\03. The Pianist.dll
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\obj\Debug\net5.0\03. The Pianist.pdb
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep4.0\03. The Pianist\obj\Debug\net5.0\03. The Pianist.genruntimeconfig.cache
