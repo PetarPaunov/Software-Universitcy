@@ -1,0 +1,16 @@
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\bin\Debug\net5.0\01. Bonus Scoring System.exe
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\bin\Debug\net5.0\01. Bonus Scoring System.deps.json
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\bin\Debug\net5.0\01. Bonus Scoring System.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\bin\Debug\net5.0\01. Bonus Scoring System.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\bin\Debug\net5.0\01. Bonus Scoring System.dll
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\bin\Debug\net5.0\ref\01. Bonus Scoring System.dll
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\bin\Debug\net5.0\01. Bonus Scoring System.pdb
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\obj\Debug\net5.0\01. Bonus Scoring System.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\obj\Debug\net5.0\01. Bonus Scoring System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\obj\Debug\net5.0\01. Bonus Scoring System.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\obj\Debug\net5.0\01. Bonus Scoring System.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\obj\Debug\net5.0\01. Bonus Scoring System.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\obj\Debug\net5.0\01. Bonus Scoring System.dll
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\obj\Debug\net5.0\ref\01. Bonus Scoring System.dll
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\obj\Debug\net5.0\01. Bonus Scoring System.pdb
+C:\Users\petar\source\repos\SoftUniFundametalsMidExamPrep02\01. National Court\obj\Debug\net5.0\01. Bonus Scoring System.genruntimeconfig.cache
