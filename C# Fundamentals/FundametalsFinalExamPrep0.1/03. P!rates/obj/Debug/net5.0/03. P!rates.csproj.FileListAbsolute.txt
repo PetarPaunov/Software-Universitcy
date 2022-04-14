@@ -1,0 +1,16 @@
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\bin\Debug\net5.0\03. P!rates.exe
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\bin\Debug\net5.0\03. P!rates.deps.json
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\bin\Debug\net5.0\03. P!rates.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\bin\Debug\net5.0\03. P!rates.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\bin\Debug\net5.0\03. P!rates.dll
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\bin\Debug\net5.0\ref\03. P!rates.dll
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\bin\Debug\net5.0\03. P!rates.pdb
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\obj\Debug\net5.0\03. P!rates.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\obj\Debug\net5.0\03. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\obj\Debug\net5.0\03. P!rates.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\obj\Debug\net5.0\03. P!rates.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\obj\Debug\net5.0\03. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\obj\Debug\net5.0\03. P!rates.dll
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\obj\Debug\net5.0\ref\03. P!rates.dll
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\obj\Debug\net5.0\03. P!rates.pdb
+C:\Users\petar\source\repos\SoftUniFundametalsFinalExamPrep0.1\03. P!rates\obj\Debug\net5.0\03. P!rates.genruntimeconfig.cache
