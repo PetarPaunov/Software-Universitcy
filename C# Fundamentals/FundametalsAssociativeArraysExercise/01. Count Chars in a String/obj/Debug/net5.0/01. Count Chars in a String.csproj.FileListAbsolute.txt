@@ -1,0 +1,16 @@
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.exe
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.deps.json
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.dll
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\ref\01. Count Chars in a String.dll
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.pdb
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.dll
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\ref\01. Count Chars in a String.dll
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.pdb
+C:\Users\petar\source\repos\SoftUniFundametalsAssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.genruntimeconfig.cache
