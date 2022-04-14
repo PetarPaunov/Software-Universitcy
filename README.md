@@ -1,1 +1,1 @@
-# Software-Universitcy
+# Software-University
