@@ -1,0 +1,16 @@
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.exe
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.deps.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\bin\Debug\net5.0\ref\09. List Of Predicates.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.pdb
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\obj\Debug\net5.0\ref\09. List Of Predicates.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.pdb
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.genruntimeconfig.cache

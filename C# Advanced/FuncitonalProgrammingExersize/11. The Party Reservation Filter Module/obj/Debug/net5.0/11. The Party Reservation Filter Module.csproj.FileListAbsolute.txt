@@ -1,0 +1,16 @@
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\bin\Debug\net5.0\11. The Party Reservation Filter Module.exe
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\bin\Debug\net5.0\11. The Party Reservation Filter Module.deps.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\bin\Debug\net5.0\11. The Party Reservation Filter Module.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\bin\Debug\net5.0\11. The Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\bin\Debug\net5.0\11. The Party Reservation Filter Module.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\bin\Debug\net5.0\ref\11. The Party Reservation Filter Module.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\bin\Debug\net5.0\11. The Party Reservation Filter Module.pdb
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\obj\Debug\net5.0\11. The Party Reservation Filter Module.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\obj\Debug\net5.0\11. The Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\obj\Debug\net5.0\11. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\obj\Debug\net5.0\11. The Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\obj\Debug\net5.0\11. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\obj\Debug\net5.0\11. The Party Reservation Filter Module.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\obj\Debug\net5.0\ref\11. The Party Reservation Filter Module.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\obj\Debug\net5.0\11. The Party Reservation Filter Module.pdb
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\11. The Party Reservation Filter Module\obj\Debug\net5.0\11. The Party Reservation Filter Module.genruntimeconfig.cache
