@@ -1,0 +1,12 @@
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\petar\source\repos\OOPExamPrep3\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
