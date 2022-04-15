@@ -1,0 +1,15 @@
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.exe
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.deps.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\bin\Debug\net5.0\ref\06. Reverse And Exclude.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.pdb
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\obj\Debug\net5.0\ref\06. Reverse And Exclude.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.pdb
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.genruntimeconfig.cache
