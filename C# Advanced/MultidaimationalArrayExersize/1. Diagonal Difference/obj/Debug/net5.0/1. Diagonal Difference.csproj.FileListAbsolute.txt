@@ -1,0 +1,16 @@
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.exe
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.deps.json
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\bin\Debug\net5.0\ref\1. Diagonal Difference.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.pdb
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\obj\Debug\net5.0\ref\1. Diagonal Difference.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.pdb
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.genruntimeconfig.cache
