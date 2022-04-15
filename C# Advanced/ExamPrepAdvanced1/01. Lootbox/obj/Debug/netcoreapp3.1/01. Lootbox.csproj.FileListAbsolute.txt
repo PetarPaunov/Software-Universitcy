@@ -1,0 +1,13 @@
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.exe
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.deps.json
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.json
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.dev.json
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.dll
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.pdb
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfo.cs
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.dll
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.pdb
+C:\Users\petar\source\repos\ExamPrepAdvanced1\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.genruntimeconfig.cache

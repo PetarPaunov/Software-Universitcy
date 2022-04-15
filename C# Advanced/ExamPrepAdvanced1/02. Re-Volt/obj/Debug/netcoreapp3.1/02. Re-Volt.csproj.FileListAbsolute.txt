@@ -1,0 +1,13 @@
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.exe
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.deps.json
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.json
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.dev.json
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.dll
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.pdb
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfo.cs
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.dll
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.pdb
+C:\Users\petar\source\repos\ExamPrepAdvanced1\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.genruntimeconfig.cache
