@@ -1,0 +1,16 @@
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.exe
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.deps.json
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.json
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.dll
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\bin\Debug\net5.0\ref\06. Wardrobe.dll
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.pdb
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.dll
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\obj\Debug\net5.0\ref\06. Wardrobe.dll
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.pdb
+C:\Users\petar\source\repos\SoftIniAdvancedSetAndDictionariesExersize\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.genruntimeconfig.cache
