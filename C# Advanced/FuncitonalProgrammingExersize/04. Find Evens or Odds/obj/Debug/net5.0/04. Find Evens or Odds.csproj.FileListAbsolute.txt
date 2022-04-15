@@ -1,0 +1,16 @@
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.exe
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.deps.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\bin\Debug\net5.0\ref\04. Find Evens or Odds.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.pdb
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\obj\Debug\net5.0\ref\04. Find Evens or Odds.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.pdb
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.genruntimeconfig.cache

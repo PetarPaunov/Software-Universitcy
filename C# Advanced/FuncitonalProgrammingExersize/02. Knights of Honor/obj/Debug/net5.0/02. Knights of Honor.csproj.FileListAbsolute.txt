@@ -1,0 +1,15 @@
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.exe
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.deps.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\bin\Debug\net5.0\ref\02. Knights of Honor.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.pdb
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\obj\Debug\net5.0\ref\02. Knights of Honor.dll
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.pdb
+C:\Users\petar\source\repos\SoftUniAdancedFuncitonalProgrammingExersize\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.genruntimeconfig.cache
