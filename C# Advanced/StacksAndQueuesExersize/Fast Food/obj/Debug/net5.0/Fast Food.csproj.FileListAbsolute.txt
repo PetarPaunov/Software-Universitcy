@@ -1,0 +1,15 @@
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\bin\Debug\net5.0\Fast Food.exe
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\bin\Debug\net5.0\Fast Food.deps.json
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\bin\Debug\net5.0\Fast Food.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\bin\Debug\net5.0\Fast Food.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\bin\Debug\net5.0\Fast Food.dll
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\bin\Debug\net5.0\ref\Fast Food.dll
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\bin\Debug\net5.0\Fast Food.pdb
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\obj\Debug\net5.0\Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\obj\Debug\net5.0\Fast Food.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\obj\Debug\net5.0\Fast Food.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\obj\Debug\net5.0\Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\obj\Debug\net5.0\Fast Food.dll
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\obj\Debug\net5.0\ref\Fast Food.dll
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\obj\Debug\net5.0\Fast Food.pdb
+C:\Users\petar\source\repos\SoftUniAdvacedStacksAndQueuesExersize\Fast Food\obj\Debug\net5.0\Fast Food.genruntimeconfig.cache
