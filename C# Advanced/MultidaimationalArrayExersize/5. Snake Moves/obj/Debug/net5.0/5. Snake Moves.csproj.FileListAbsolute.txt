@@ -1,0 +1,16 @@
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.exe
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.deps.json
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\bin\Debug\net5.0\ref\5. Snake Moves.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.pdb
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\obj\Debug\net5.0\ref\5. Snake Moves.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.pdb
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.genruntimeconfig.cache

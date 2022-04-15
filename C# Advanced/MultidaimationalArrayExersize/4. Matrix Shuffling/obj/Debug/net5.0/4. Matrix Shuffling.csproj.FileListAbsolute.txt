@@ -1,0 +1,16 @@
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.exe
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.deps.json
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.json
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\bin\Debug\net5.0\ref\4. Matrix Shuffling.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.pdb
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\obj\Debug\net5.0\ref\4. Matrix Shuffling.dll
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.pdb
+C:\Users\petar\source\repos\SoftUniAdvacedMultidaimationalArrayExersize\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.genruntimeconfig.cache
