@@ -1,0 +1,13 @@
+C:\Users\petar\source\repos\OOPExamPrep4\bin\Debug\netcoreapp3.1\WarCroft.exe
+C:\Users\petar\source\repos\OOPExamPrep4\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+C:\Users\petar\source\repos\OOPExamPrep4\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+C:\Users\petar\source\repos\OOPExamPrep4\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+C:\Users\petar\source\repos\OOPExamPrep4\bin\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\petar\source\repos\OOPExamPrep4\bin\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\petar\source\repos\OOPExamPrep4\obj\Debug\netcoreapp3.1\WarCroft.csproj.AssemblyReference.cache
+C:\Users\petar\source\repos\OOPExamPrep4\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\OOPExamPrep4\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+C:\Users\petar\source\repos\OOPExamPrep4\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\OOPExamPrep4\obj\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\petar\source\repos\OOPExamPrep4\obj\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\petar\source\repos\OOPExamPrep4\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache
