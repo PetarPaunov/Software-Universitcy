@@ -7,17 +7,17 @@ SoftUni's software engineering curriculum is a combination of programming and te
 The curriculum consists of several professional fields and subsequent specializations, built from specially selected training modules. Each training module contains courses with a strong focus on practice and the end of each course include practical and theoretical exam.
 ## Modules
 
-- Programming Basic
-- Fundamentals
-- C# Advanced
-    - C# OOP
-    - C# ADVANCED
+- Programming Basic - **done**
+- Fundamentals - **done**
+- C# Advanced 
+    - C# OOP - **done**
+    - C# ADVANCED - **done**
 - JS Advanced
-   - JS ADVANCED
-   - JS APPLICATIONS
+   - JS ADVANCED - **done**
+   - JS APPLICATIONS - **done**
 - C# DB
-   - MS SQL
-   - ENTITY FRAMEWORK CORE
+   - MS SQL - **done**
+   - ENTITY FRAMEWORK CORE - **in progress**
 - C# Web
    - C# WEB BASICS
    - ASP.NET CORE
