@@ -34,11 +34,82 @@ namespace ProductShop
             ImportCategoryProducts(db, categoriesProductsXml);
             */
 
-            var result = GetSoldProducts(db);
+            //GetSoldProducts(db);
 
+            var result = GetUsersWithProducts(db);
             Console.WriteLine(result);
         }
 
+
+        // 08. Export Users and Products
+        public static string GetUsersWithProducts(ProductShopContext context)
+        {
+            var users = context.Users
+                .ToArray()
+                .Where(x => x.ProductsSold.Any(sp => sp.BuyerId != null))
+                .Select(x => new UsersModel
+                {
+                    FirstName = x.FirstName,
+                    LastName = x.LastName,
+                    Age = x.Age,
+                    SoldProducts = new SoldProductsUsersModel
+                    {
+                        Count = x.ProductsSold.Count(),
+                        Products = x.ProductsSold.Select(p => new ProductsModel
+                        {
+                            Name = p.Name,
+                            Price = p.Price
+                        })
+                        .OrderByDescending(p => p.Price)
+                        .ToArray(),
+                    }
+                })
+                .OrderByDescending(x => x.SoldProducts.Count)
+                .Take(10)
+                .ToArray();
+
+            var result = new UsersCountModel
+            {
+                Count = context.Users.Count(x => x.ProductsSold.Any(p => p.BuyerId != 0)),
+                Users = users
+            };
+
+            var xmlSerializer = new XmlSerializer(typeof(UsersCountModel), new XmlRootAttribute("Users"));
+
+            var textWriter = new StringWriter();
+
+            var namespaces = new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty });
+
+            xmlSerializer.Serialize(textWriter, result, namespaces);
+
+            return textWriter.ToString();
+        }
+
+        // 07. Export Categories By Products Count
+        public static string GetCategoriesByProductsCount(ProductShopContext context)
+        {
+            var categories = context.Categories
+                .Select(x => new CategoryByProductModel
+                {
+                    Name = x.Name,
+                    Count = x.CategoryProducts.Count(),
+                    AveragePrice = x.CategoryProducts.Average(p => p.Product.Price),
+                    TotalRevenue = x.CategoryProducts.Sum(p => p.Product.Price)
+                })
+                .OrderByDescending(x => x.Count)
+                .ThenBy(x => x.TotalRevenue)
+                .ToArray();
+
+            var xmlSerializer = new XmlSerializer(typeof(CategoryByProductModel[]), new XmlRootAttribute("Categories"));
+
+            var textWriter = new StringWriter();
+
+            var namespaces = new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty });
+
+            xmlSerializer.Serialize(textWriter, categories, namespaces);
+
+            return textWriter.ToString();
+        }
 
         // 06. Export Sold Products
         public static string GetSoldProducts(ProductShopContext context)
