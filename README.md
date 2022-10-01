@@ -7,17 +7,17 @@ SoftUni's software engineering curriculum is a combination of programming and te
 The curriculum consists of several professional fields and subsequent specializations, built from specially selected training modules. Each training module contains courses with a strong focus on practice and the end of each course include practical and theoretical exam.
 ## Modules
 
-- Programming Basic - **done**
-- Fundamentals - **done**
+- Programming Basic - **[Certificate](https://softuni.bg/certificates/details/106550/c5db5da0)**
+- Fundamentals - **[Certificate](https://softuni.bg/certificates/details/111834/a0c8d3a9)**
 - C# Advanced 
-    - C# OOP - **done**
-    - C# ADVANCED - **done**
+    - C# OOP - **[Certificate](https://softuni.bg/certificates/details/120537/e2a3a7f5)**
+    - C# ADVANCED - **[Certificate](https://softuni.bg/certificates/details/121990/f45c01ab)**
 - JS Advanced
-   - JS ADVANCED - **done**
-   - JS APPLICATIONS - **done**
+   - JS ADVANCED - **[Certificate](https://softuni.bg/certificates/details/126592/cd828618)**
+   - JS APPLICATIONS - **[Certificate](https://softuni.bg/certificates/details/130313/5477ba2d)**
 - C# DB
-   - MS SQL - **done**
-   - ENTITY FRAMEWORK CORE - **in progress**
+   - MS SQL - **[Certificate](https://softuni.bg/certificates/details/134764/54e18123)**
+   - ENTITY FRAMEWORK CORE - **[Certificate](https://softuni.bg/certificates/details/138300/23efd48d)**
 - C# Web
-   - C# WEB BASICS
-   - ASP.NET CORE
+   - ASP.NET Fundamentals - **In progress**
+   - ASP.NET Advanced
