@@ -9,5 +9,11 @@ namespace ForumAppCRUDOperations.Core.Contracts
         Task<IEnumerable<PostViewModel>> GetAllPosts();
 
         Task AddPost(AddPostViewModel model);
+
+        Task<EditPostViewModel> FindById(int id);
+
+        Task EditPost(EditPostViewModel model);
+
+        Task DeletePost(int id);
     }
 }
