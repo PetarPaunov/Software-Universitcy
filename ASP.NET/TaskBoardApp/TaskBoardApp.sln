@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBoardApp", "TaskBoardApp\TaskBoardApp.csproj", "{A22C34D3-A81D-458A-8E94-C4CA499593D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskBoardApp", "TaskBoardApp\TaskBoardApp.csproj", "{A22C34D3-A81D-458A-8E94-C4CA499593D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBoardApp.Core", "TaskBoardApp.Core\TaskBoardApp.Core.csproj", "{7A7D9E33-C8D0-49BA-B80F-947A6E624D14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A22C34D3-A81D-458A-8E94-C4CA499593D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A22C34D3-A81D-458A-8E94-C4CA499593D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A22C34D3-A81D-458A-8E94-C4CA499593D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7D9E33-C8D0-49BA-B80F-947A6E624D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7D9E33-C8D0-49BA-B80F-947A6E624D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7D9E33-C8D0-49BA-B80F-947A6E624D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7D9E33-C8D0-49BA-B80F-947A6E624D14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
