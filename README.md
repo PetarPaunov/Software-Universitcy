@@ -19,5 +19,8 @@ The curriculum consists of several professional fields and subsequent specializa
    - MS SQL - **[Certificate](https://softuni.bg/certificates/details/134764/54e18123)**
    - ENTITY FRAMEWORK CORE - **[Certificate](https://softuni.bg/certificates/details/138300/23efd48d)**
 - C# Web
-   - ASP.NET Fundamentals - **In progress**
-   - ASP.NET Advanced
+   - ASP.NET Fundamentals - **[Certificate](https://softuni.bg/certificates/details/146521/b2017fee)**
+   - ASP.NET Advanced - **[Certificate](https://softuni.bg/certificates/details/152279/781ac692)**
+- Front End
+    - HTML & CSS - In progress
+    - ReactJS
