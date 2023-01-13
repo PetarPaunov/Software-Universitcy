@@ -1,0 +1,29 @@
+html{
+    font-family: Helvetica, sans-serif;
+    padding: 30px 50px;
+}
+
+header nav,
+header h1,
+.nav-item {
+  display: inline-block;
+  margin-bottom: 0px;
+}
+
+header h1{
+    margin-right: 45px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.nav-item{
+    margin-right: 30px;
+}
+
+.nav-item a{
+    text-decoration: none;
+    color: green;
+}
+
