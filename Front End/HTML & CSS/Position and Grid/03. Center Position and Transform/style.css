@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(238, 238, 238);
+    font-family: Georgia, serif;
+    font-size: 1em 1.2;
+}
+
+.card{
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255) ;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0px 0px 19px 0px rgba(0,0,0,0.75);
+}
+
+.card .media{
+    height: 350px;
+    position: relative;
+}
+
+.card .media img{
+    width: 100%;
+    position: absolute;
+}
+
+.card .content{
+    padding: 20px;
+    text-align: right;
+}
+
+.card .content h3{
+    text-align: left;
+    margin-top: 0;
+}
+
+.card .content p{
+    text-align: left;
+}
+
+.card .content a{
+    background-color: rgb(0, 153, 0);
+    text-decoration: none;
+    padding: 5px 15px;
+    color: white;
+    border-radius: 5px;
+}
+
+
+
