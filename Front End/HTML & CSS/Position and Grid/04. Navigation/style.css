@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(238, 238, 238);
+    margin: 45px 70px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: Georgia, serif;
+    font-size: 1em 1.2;
+}
+
+.nav{
+    float: right;
+}
+
+.nav-list{
+    list-style: none;
+}
+
+p.title{
+    display: inline-block;
+    margin-bottom: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, serif;
+}
+
+.nav-item a{
+    color: rgb(0, 102, 0);
+    text-decoration: none;
+    display: block;
+}
+
+.nav-item{
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.hr{
+    border: 1px solid black;
+    padding: 0;
+    margin: 0;
+}
