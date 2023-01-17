@@ -1,6 +1,7 @@
 body{
     background-color: rgb(238, 238, 238);
     margin: 45px 70px;
+    box-sizing: border-box;
 }
 
 h1,
@@ -26,7 +27,7 @@ p.title{
     margin-bottom: 5px;
     font-size: 25px;
     font-weight: bold;
-    font-family: Georgia, serif;
+    font-family: sans-serif;
 }
 
 .nav-item a{
@@ -44,4 +45,60 @@ p.title{
     border: 1px solid black;
     padding: 0;
     margin: 0;
+}
+
+main{
+    display: inline-block;
+    width: 70%;
+}
+
+.content .first{
+    width: 120px;
+    margin: 6px;
+    padding: 5px;
+    float: right;
+    border: 2px solid black;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 23px 6px rgba(0, 0, 0, 0.25);
+}
+
+.inline{
+    display: inline-block;
+    width: 40%;
+}
+
+.second-section blockquote{
+    float: right;
+    margin: 0 15px;
+    width: 40%;
+    font-family: Georgia, serif;
+    font-style: italic;
+    opacity: 80%;
+    border-left: 3px solid rgb(0, 0, 0, 0.15);
+    padding: 0 10px;
+    height: 200px;
+}
+
+.name{
+    text-align: right;
+}
+
+.last-img{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 23px 6px rgba(0, 0, 0, 0.25);
+}
+
+aside{
+    width: 25%;
+    float: right;
+}
+
+aside a{
+    text-decoration: none;
+    color: rgb(0, 102, 0);
 }
