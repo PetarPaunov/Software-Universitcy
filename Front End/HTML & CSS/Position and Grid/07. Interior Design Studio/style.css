@@ -1,0 +1,17 @@
+body{
+    position: relative;
+}
+
+img{
+    width: 100%;
+    background-size: cover;
+}
+
+h1{
+    position: absolute;
+    top: 60px;
+    left: 180px; /* 50% */
+    /* transform: translate(-50%, -50%); */
+    color: antiquewhite;
+    text-shadow: 1px 1px 20px black;
+}
