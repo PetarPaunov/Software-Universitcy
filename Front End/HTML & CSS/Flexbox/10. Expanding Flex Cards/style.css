@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    align-items: center;
+}
+
+.container,
+ul,
+li{
+    display: flex;
+    gap: 20px;
+    overflow: hidden;
+}
+
+li{
+    flex: 1 1 20%;
+    border-radius: 5px;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.75);
+}
+
+li:nth-child(2){
+    flex: 1 7 40%;    
+}
+
