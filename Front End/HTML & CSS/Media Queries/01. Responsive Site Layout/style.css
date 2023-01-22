@@ -1,0 +1,51 @@
+body{
+    display: grid;
+    grid-template-areas: 
+    'header header header'
+    'aside main main'
+    'footer footer footer';
+    gap: 5px;
+}
+
+header,
+main,
+aside,
+footer{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(194, 241, 241);
+}
+
+header{
+    grid-area: header;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+aside{
+    grid-area: aside;
+}
+
+main{
+    grid-area: main;
+}
+
+footer{
+    grid-area: footer;
+}
+
+aside a{
+    display: block;
+    text-decoration: none;
+    margin-bottom: 7px;
+}
+
+@media (max-width: 500px){
+    body{
+        grid-template-areas: 
+        'header header'
+        'aside aside'
+        'main main'
+        'footer footer';
+    }
+}
