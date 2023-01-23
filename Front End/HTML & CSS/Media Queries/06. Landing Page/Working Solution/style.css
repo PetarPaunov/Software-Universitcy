@@ -1,0 +1,337 @@
+/* Box sizing rules*/
+*,
+*a::before,
+*::after {
+               box-sizing: border-box;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+               margin: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role='list'],
+ol[role='list'] {
+               list-style: none;
+}
+
+/* Set core root defaults */
+html:focus-within {
+               scroll-behavior: smooth;
+}
+
+/* Set core body defaults */
+body {
+               min-height: 100vh;
+               text-rendering: optimizeSpeed;
+               line-height: 1.5;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+               text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+               max-width: 100%;
+               display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+               font: inherit;
+}
+
+/* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
+
+html {
+               background: linear-gradient(rgba(255, 255, 255, .9), rgba(255, 255, 255, .9)), url(./120858309-vector-golden-linear-texture-geometric-seamless-pattern-with-diamond-shapes-rhombuses-thin-lines-abs.jpg) no-repeat center center fixed;
+               background-size: cover;
+}
+
+.logo,
+nav {
+               display: inline-block;
+}
+
+.logo {
+               width: 20%;
+               margin: 15px 0 0 40px;
+               vertical-align: bottom;
+}
+
+header nav {
+               width: 75%;
+               text-align: right;
+
+}
+
+.logo h1 {
+
+
+
+               color: rgb(128, 0, 128);
+               font-size: 45px;
+               font-weight: normal;
+}
+
+.logo p {
+               text-transform: uppercase;
+               line-height: 0px;
+               font-size: 10.5px;
+               letter-spacing: 0px;
+               font-weight: normal;
+               font-family: 'Roboto', sans-serif;
+}
+
+header ul li {
+               display: inline-block;
+               margin-right: 30px;
+               font-family: sans-serif;
+               font-size: 20px;
+
+
+}
+
+header ul li a {
+               text-decoration: none;
+               color: rgb(56, 56, 56);
+
+
+}
+
+/* And of header part */
+
+.need-webside {
+               width: 70%;
+               margin: 100px 150px;
+}
+
+.need-webside-heading,
+.our-teem-heading {
+               font-size: 50px;
+               font-weight: normal;
+               margin-bottom: 10px;
+               display: inline-block;
+               max-width: 60%;
+}
+
+.need-webside-content {
+               font-size: 20px;
+               display: inline-block;
+               position: relative;
+               width: 70%;
+}
+
+#icon {
+               font-size: 180px;
+               display: inline-block;
+               position: absolute;
+               width: 30%;
+               color: black;
+               right: -50%;
+               top: -79%;
+}
+
+.need-webside-button {
+               border-radius: 3px;
+               background-color: transparent;
+               margin-top: 30px;
+               border: 2px solid rgb(56, 56, 56);
+               display: block;
+}
+
+.need-webside-button a {
+               color: rgb(56, 56, 56);
+               text-decoration: none;
+               padding: 10px 20px;
+               font-size: 20px;
+}
+
+
+/* and of the section "need a website" */
+
+.our-teem,
+.testimonials {
+               display: grid;
+               grid-template-areas:
+                              "heading heading heading"
+                              "article article article"
+                              "article article article";
+               padding: 0 60px 141px 60px;
+               ;
+               justify-items: center;
+               justify-content: space-around;
+               grid-auto-columns: 1fr;
+               gap: 50px;
+
+}
+
+
+.our-teem-heading,
+.testimonials-heading {
+
+               grid-area: heading;
+}
+
+
+.our-teem-heading::after {
+
+               content: '';
+               border-bottom: 3px solid black;
+               width: 80%;
+               height: 0px;
+               display: block;
+               margin: 0 auto;
+}
+
+.our-teem-employee {
+               text-align: center;
+}
+
+.our-teem-employee img {
+               max-width: 40%;
+               border-radius: 54%;
+               margin: 0 auto;
+
+}
+
+.our-team-employee-name {
+               margin: 30px 0 2px 0;
+               font-size: 20px;
+}
+
+.our-teem-employee-profession {
+               margin-bottom: 10px;
+               font-size: 20px;
+}
+
+.our-teem-employee-description {
+               display: inline-block;
+               text-align: center;
+               font-size: 16px;
+               margin-top: 20px;
+               font-size: 20px;
+               font-style: italic;
+               max-width: 90%;
+}
+
+/* and of the section "our teem" */
+
+
+#sing-in {
+               background-color: rgb(104, 52, 123);
+               padding: 50px 0;
+               text-align: center;
+               margin-bottom: 100px;
+}
+
+#sing-in-heading {
+               font-size: 50px;
+               color: rgb(255, 255, 255);
+               font-weight: normal;
+}
+
+
+
+#sing-in-heading::after {
+               content: '';
+               border-bottom: 3px solid black;
+               width: 10%;
+               height: 0px;
+               display: block;
+               margin: 0 auto;
+}
+
+#sing-in-input {
+               margin-top: 40px;
+               width: 32%;
+               border: 1px solid rgb(51, 51, 51);
+               border-radius: 3px;
+
+}
+
+#sing-in-button {
+               border: 1px solid rgb(51, 51, 51);
+               background-color: white;
+               padding: 0 12px;
+}
+
+.testimonials {
+
+               padding-bottom: 150px;
+               box-shadow: 0px 0px 30px 1px lightgray;
+}
+
+
+/* and of the section "sing-in" */
+
+footer {
+               display: flex;
+               justify-content: center;
+               align-items: flex-start;
+               padding-top: 30px;
+               font-size: 20px;
+}
+
+.first-section,
+.second-section {
+               flex-basis: 30%;
+}
+
+.first-section {
+               padding-right: 70px;
+               
+}
+
+.first-section h3 {
+               font-weight: normal;
+               font-size: 35px;
+               padding-bottom: 10px;
+}
+
+.second-section {
+               display: flex;
+               flex-wrap: wrap;
+               flex-direction: column;
+}
+
+.second-section h4 {
+               font-weight: normal;
+               font-size: 30px;
+}
+
+.second-section ul {
+               align-self: flex-start;
+               padding-left: 0px;
+               margin-top: 0px;
+}
+
+.second-section ul li {
+               display: inline-block;
+               width: 48%;
+}
+
+.second-section ul li a {
+               text-decoration: none;
+               color: black;
+}
+
+.icons{
+               padding-right: 10px;
+}
