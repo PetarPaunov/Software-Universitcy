@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800&display=swap');
+
+*,
+*::before,
+*::after {
+    font-family: "Mulish", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background-image: url("./images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    background-image: url("./images/form-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 55%;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 27px 0px rgba(51,50,51,1);
+    padding: 3rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.container .title{
+    text-transform: uppercase;
+    text-align: center;
+    width: 50%;
+}
+
+.container .title .p-title{
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.container label{
+    font-size: 8px;
+    margin-bottom: 4px;
+    color: rgb(179, 176, 176);
+}
+
+.container .double{
+    display: flex;
+    gap: 10px;
+    padding-bottom: 7px;
+    width: 50%;
+}
+
+.container .double input{
+    width: 100%;
+    height: 23px;
+    border-radius: 10px;
+    background-color: rgb(255, 254, 254);
+    border: 1px solid rgb(225, 222, 222);
+}
+
+.container .double .first,
+.container .double .second{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.container .single{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding-bottom: 10px;
+}
+
+.container .single input{
+    border-radius: 10px;
+    background-color: rgb(255, 254, 254);
+    border: 1px solid rgb(225, 222, 222);
+    height: 23px;
+}
+
+.container .terms{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    padding-bottom: 20px;
+}
+
+.container .terms .terms-info{
+    font-size: 8px;
+    color: rgb(179, 176, 176);
+}
+
+.btn-container .btn{
+    padding: 7px 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: brown;
+    color: white;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.btn-container{
+    width: 50%;
+    text-align: center;
+}
