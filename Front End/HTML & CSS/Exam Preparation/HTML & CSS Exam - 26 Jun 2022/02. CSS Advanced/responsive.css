@@ -1,0 +1,31 @@
+@media (max-width: 600px) {
+  main,
+  body {
+    width: 100%;
+    margin: 0px;
+  }
+
+  main .left-to-right article {
+    padding: 0px;
+    border-radius: 100px;
+    display: block;
+  }
+
+  main .left-to-right article p {
+    padding: 0 40px;
+  }
+
+    button {
+    display: none;
+  }
+
+  main section:nth-child(2),
+  main section:nth-child(4) {
+    display: block;
+  }
+
+  main section:nth-child(4) article{
+    text-align: center;
+    flex-direction: row;
+  }
+}
