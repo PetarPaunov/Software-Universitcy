@@ -1,0 +1,182 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css");
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'PT Sans', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+.header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)),
+        url(./image/computer-main.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+    padding: 1.5rem 6rem;
+}
+
+.header .nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.header .nav .title a,
+.header .nav .cart a{
+    color: white;
+}
+
+.header .intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.header .intro .title{
+    margin-bottom: 1rem;
+}
+
+.header .intro .info{
+    width: 350px;
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 2.5rem;
+}
+
+.header .intro .btn{
+    padding: 5px 15px;
+    border-radius: 3px;
+    border: none;
+    background-color: rgb(25, 242, 126);
+    color: white;
+    font-weight: bold;
+    margin-bottom: 2.5rem;
+}
+
+.header .intro .btn:hover{
+    background-color:rgba(255, 255, 255, 0);
+    border: 3px solid white;
+}
+
+.header .intro a{
+    color: aliceblue;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.main .first{
+    background-image: url("./image/tablet.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+main .first-right{
+    padding: 10px 0px 15px 25px;
+    height: 300px;
+}
+
+main .first-right h2{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+main .first-right p{
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+main .first-right ul{
+    line-height: 35px;
+}
+
+main .first-right ul li i{
+    color: rgb(25, 242, 126);
+    padding-right: 10px;
+}
+
+main .second{
+    text-align: center;
+    padding: 10px 25px 10px 25px;
+    height: 250px;
+}
+
+main .second h2{
+    padding-bottom: 20px;
+}
+
+main .second .content img{
+    width: 35px;
+}
+
+main .second .content p{
+    color: rgb(25, 242, 126);
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+main .second .content{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+main .second .content .items{
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.main .second-right{
+    background-image: url("./image/pen.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+}
+
+.footer{
+    background-color: rgb(142, 231, 207);
+    padding: 15px 35px 15px 35px;
+}
+
+.footer .title{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.footer .content{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+.footer .content .items{
+    text-align: center;
+    padding-bottom: 1.5rem;
+}
+
+.footer .content .items h3{
+    font-size: 0.7rem;
+    padding-bottom: 0.5em;
+}
+
+.footer .content .items p{
+    font-size: 0.6rem;
+}
+
+.footer .last{
+    text-align: center;
+    font-size: 0.8rem;
+}
