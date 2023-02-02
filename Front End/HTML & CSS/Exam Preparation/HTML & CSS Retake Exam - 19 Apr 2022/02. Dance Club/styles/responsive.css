@@ -1,0 +1,54 @@
+@media (max-width: 800px) {
+    .menu{
+        display: block;
+        text-align: center;
+    }
+
+    .menu .nav-options{
+        display: block;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    header div{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url("../image/dancing-girl.png");
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .trainings,
+    .instructors-pic{
+        flex-direction: column;
+    }
+
+    .trainings div{
+        width: 50%;
+    }
+
+    .classes ul{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .classes ul li{
+        width: 90%;
+    }
+
+    .getInTouch{
+        display: block;
+    }
+
+    .site-footer .wrapper{
+        display: block;
+    }
+
+    .site-footer .sitemap
+    {
+        display: inline-block;
+        width: 60%;
+    }
+    .site-footer .contacts{
+        float: right;
+    }
+}
