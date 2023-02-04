@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'PT Serif', serif;
+}
+
+.card{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    width: 80%;
+    box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.75);
+}
+
+.card .right{
+    padding: 1rem;
+    width: 100%;
+}
+
+.card .left{
+    background-image: url(./images/image1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 0 1rem 1rem 1rem;
+
+}
+
+.card .left .title{
+    text-align: center;
+    border-bottom: 2px dotted green;
+    margin-bottom: 7px;
+}
+
+.card .left .serves{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card .left .serves p{
+    margin-top: 0px;
+}
+
+.card .left .list{
+    list-style: none;
+    padding: 0;
+}
+
+.card .left .list li span{
+    color: green;
+    font-weight: bold;
+}
+
+.card .left .info{
+    margin-bottom: 370px;
+}
+
+table{
+    width: 100%;
+}
+
+table, th, td{
+    border: 1px solid green;
+    border-collapse: collapse;
+}
