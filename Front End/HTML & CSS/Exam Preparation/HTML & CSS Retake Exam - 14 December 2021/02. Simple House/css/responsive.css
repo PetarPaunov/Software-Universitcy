@@ -1,0 +1,24 @@
+@media (max-width: 600px) {
+    .tm-header-inner{
+        display: block;
+    }
+
+    .tm-gallery-page{
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    
+    .row{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .tm-gallery{
+        margin-left: 0px;
+    }
+
+    .tm-cta-section{
+        width: 100%;
+        display: block;
+    }
+}
