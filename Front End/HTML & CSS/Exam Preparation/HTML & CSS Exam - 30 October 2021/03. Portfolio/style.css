@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css');
+:root{
+    --clr-primary-grey: #efefef;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 3rem;
+}
+
+.header{
+    position: relative;
+    background-color: var(--clr-primary-grey);
+}
+
+.section{
+    padding: 7rem;
+    margin-bottom: 3rem;
+    height: 70vh;
+}
+
+.header .nav{
+    text-align: right;
+    font-size: 17px;
+    padding: 1rem;
+}
+
+.header .nav .icon{
+    margin-left: .5rem;
+    cursor: pointer;
+}
+
+.section .container{
+    font-size: 1.5rem;
+    width: 45%;
+}
+
+.section .container .side{
+    width: 1px;
+    height: 7rem;
+    background-color: black;
+}
+
+.section .container .title{
+    font-weight: 300;
+    font-size: 4rem;
+}
+
+.section .container .info{
+    font-style: italic;
+    margin-bottom: 3rem;
+}
+
+.header .section .hero-img{
+    position: absolute;
+    bottom: 0;
+    right: 5rem;
+}
+
+.main .about{
+    background-color: var(--clr-primary-grey);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main .about .photo-img{
+    width: 35% ;
+}
+
+.main .about .container{
+    width: 50%;
+    font-size: 1.2rem;
+    line-height: 2.3rem;
+}
+
+.main .about .container .about-start{
+    display: flex;
+    align-items: center;
+    gap: 2rem   ;
+}
+
+.main .about .container .about-start .horizontal-line{
+    width: 5rem;
+    height: 2px;
+    background-color: black;
+}
+
+.main .about .container .about-start .title{
+    font-weight: 300;
+    font-size: 4rem;
+}
+
+.main .about .container .info{
+    margin: 0px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.main .about .container .medias{
+    display: flex;
+    gap: 1.5rem ;
+    list-style: none;
+    padding-left: 0px;
+}
+
+.main .about .container .medias .media-item{
+    background-color: grey;
+    width: 40px;
+    text-align: center;
+}   
+
+.main .about .container .medias .media-item a{
+    color: var(--clr-primary-grey);
+}
+
+.third{
+    background-image: url('./images/thumb-1.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.forth{
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--clr-primary-grey);
+}   
+
+.forth .img-stairs{
+    width: 50%;
+}
+
+.fifth{
+    display: flex;
+    background-color: var(--clr-primary-grey);
+}
+
+.fifth img{
+    width: 33%;
+}
+
+.fifth img:nth-child(2){
+    transform: scale(1.2);
+}
+
+.last{
+    background-color: var(--clr-primary-grey);
+    text-align: center;
+}
+
+.last .title{
+    margin-top: 0px;
+    font-weight: 300;
+    font-size: 4rem;
+}
+
+.last .desc{
+    font-size: 1.5rem;
+    font-style: italic;
+    margin-bottom: 2.5rem;
+}
+
+.last .content{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.last .content .form{
+    display: grid;
+    grid-template-areas:
+    "email subject"
+    "msg msg"
+    "btn btn" ;
+    gap: 1rem;
+    width: 45%;
+    margin: 0 auto;
+}
+
+.last .content .form  .left{
+    grid-area: email;
+}
+
+.last .content .form  .right{
+    grid-area: subject;
+}
+
+.last .content .form textarea{
+    grid-area: msg;
+}
+
+.last .content .form .submit{
+    grid-area: btn;
+}
+
+.last .content .form .text{
+    border: 1px solid black;
+    outline: none;
+    background-color: var(--clr-primary-grey);
+    padding: .5rem;
+}
+
+.last .content .form .submit{
+    padding: .5rem;
+    color: white;
+    background-color: black;
+    border: none;
+    margin-bottom: 4rem;
+}
+
