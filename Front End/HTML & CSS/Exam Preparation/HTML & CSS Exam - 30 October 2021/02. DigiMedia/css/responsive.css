@@ -1,0 +1,79 @@
+@media screen and (max-width: 600px) {
+    .navbar{
+        justify-content: center;
+        background-image: none;
+    }
+
+    .navbar-light .navbar-brand{
+        margin-right: 0px;
+    }
+
+    .hero img{
+        display: none;
+    }
+    
+    .hero h1{
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+    .hero p{
+        text-align: center;
+    }
+
+    .hero-btns{
+        margin-bottom: 6rem;
+    }
+
+    .hero-btns a{
+        display: block;
+        width: 50%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    
+    h2{
+        text-align: center;
+    }
+
+    .col-sm-6{
+        max-width: 100%;
+        flex: none;
+    }
+
+    img{
+        margin-bottom: 5rem;
+    }
+
+    .side2-img img{
+        display: none;
+    }
+
+    h5, 
+    .about p{
+        text-align: center;
+    }
+
+    .about{
+        margin-bottom: 4rem;
+    }
+
+    .hero-btns a:last-child{
+        display: none;
+    }
+
+    footer h3{
+        width: 60%;
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 1.5rem;
+    }
+
+    .contact-nav li{
+        display: block;
+    }
+
+    footer h6{
+        padding-bottom: 10px;
+    }
+}
