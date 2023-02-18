@@ -1,0 +1,68 @@
+@media (max-width: 600px) {
+    
+    .banner{
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+
+    .banner h2{
+        width: 90%;
+        font-size: 2rem;
+    }
+
+    .banner{
+        font-size: 1rem;
+    }
+
+    .wrapper > .inner,
+    .wrapper > .inner.narrow{
+        width: 100%;
+    }
+
+    section.special{
+        padding-top: 2rem;
+    }
+
+    header.major{
+        margin-bottom: 0px;
+    }
+
+    .features{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .grid-form .form-control,
+    .grid-form .form-control.narrow,
+    .feature{
+        width: 95%;
+    }
+
+    .grid-form{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    ul.actions li:last-child{
+        width: 98%;
+    }
+
+    .wrapper.style2{
+        padding: 10px;
+    }
+
+    .footer:before{
+        width: 90%;
+        left: 5%;
+    }
+
+    .footer{
+        padding: 20px 0 10px 0;
+    }
+
+    .footer .copyright{
+        margin: 0px;
+    }
+}
