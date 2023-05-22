@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css');
+:root{
+    --clr-primary-purple: #370511;
+    --clr-primary-black: #000000;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.header{
+    background-image: url('./images/landing-photo.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    padding-top: 1rem;
+    margin-bottom: 4rem;
+}
+
+.header .wraper{
+    margin: 0 410px;
+}
+
+.header .wraper .nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .wraper .nav .nav-logo{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.header .wraper .nav .nav-list{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+
+.header .wraper .nav .nav-list .nav-item .link{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+.header .wraper .nav .nav-list .nav-item:nth-of-type(5) .link,
+.header .wraper .nav-intro .explore{
+    color: white;
+    background-color: var(--clr-primary-purple);
+    padding: 3px 1.5rem;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.header .wraper .nav-intro{
+    position: absolute;
+    top: 280px;
+}
+
+.header .wraper .nav-intro .title{
+    font-size: 3rem;
+}
+
+.header .wraper .nav-intro .title-info{
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.header .wraper .nav-intro .info-bottom{
+    margin-bottom: 2rem;
+}
+
+.main{
+    text-align: center;
+    margin: 0 410px;
+    margin-bottom: 6rem;
+}
+
+.main .main-title{
+    font-size: 2rem;
+}
+
+.main .recommended{
+    font-weight: 200;
+    margin-bottom: 1.5rem;
+}
+
+.main .places{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    gap: 2rem;
+}
+
+.main .places .article{
+    width: 340px;
+    height: 450px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.main .places .article .img{
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+}
+
+.main .places .article .bottom{
+    padding: 1.5rem 1rem;
+}
+
+.main .places .article .bottom .bottom-title{
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.main .places .article .bottom .bottom-info{
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 1.5rem;
+}
+
+.main .places .article .bottom .btn{
+    background-color: white;
+    border: 1px solid black;
+    padding: .5rem 2rem;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.footer{
+    background-color: var(--clr-primary-black);
+    color: white;
+}
+
+.footer .wraper{
+    margin: 0 410px;
+    padding: 1.5rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .wraper .footer-logo{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.footer .wraper .link-list{
+    list-style: none;
+}
+
+.footer .wraper .link-list .link-item{
+    margin-bottom: .5rem;
+}
+
+.footer .wraper .link-list .link-item .link{
+    text-decoration: none;
+    color: white;
+}
+
+.footer .wraper .medias .follow{
+    margin-bottom: 5px;
+}
+
+.footer .wraper .medias .media i{
+    font-size: 23px;
+    margin-right: 16px;
+    color: white;
+}
+
