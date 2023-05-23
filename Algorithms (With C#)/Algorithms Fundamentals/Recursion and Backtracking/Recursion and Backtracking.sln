@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Generating Vectors", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Recursive Factorial", "04. Recursive Factorial\04. Recursive Factorial.csproj", "{482922B5-A3E4-4C5C-92B5-70FABE6249BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Paths in Labyrinth", "05. Paths in Labyrinth\05. Paths in Labyrinth.csproj", "{025BCB2E-77E0-48BD-8B4C-E63B8B5A5FE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{482922B5-A3E4-4C5C-92B5-70FABE6249BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{482922B5-A3E4-4C5C-92B5-70FABE6249BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{482922B5-A3E4-4C5C-92B5-70FABE6249BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025BCB2E-77E0-48BD-8B4C-E63B8B5A5FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025BCB2E-77E0-48BD-8B4C-E63B8B5A5FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025BCB2E-77E0-48BD-8B4C-E63B8B5A5FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025BCB2E-77E0-48BD-8B4C-E63B8B5A5FE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
