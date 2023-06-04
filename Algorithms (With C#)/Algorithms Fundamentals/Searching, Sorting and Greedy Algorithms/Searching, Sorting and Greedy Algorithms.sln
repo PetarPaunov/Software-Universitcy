@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble Sort", "Bubble Sort\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insertion Sort", "Insertion Sort\Insertion Sort.csproj", "{9FC26BC4-6D14-48EC-8303-7D1305295D12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicksort", "Quicksort\Quicksort.csproj", "{48C380C8-5437-4FCE-B4B7-7CE73F02D4A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9FC26BC4-6D14-48EC-8303-7D1305295D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FC26BC4-6D14-48EC-8303-7D1305295D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FC26BC4-6D14-48EC-8303-7D1305295D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C380C8-5437-4FCE-B4B7-7CE73F02D4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C380C8-5437-4FCE-B4B7-7CE73F02D4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C380C8-5437-4FCE-B4B7-7CE73F02D4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C380C8-5437-4FCE-B4B7-7CE73F02D4A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
