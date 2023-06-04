@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Sort", "Merge Sort\Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Coins", "Sum of Coins\Sum of Coins.csproj", "{022929D7-A0B6-4461-BADF-4DD3082F67F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set Cover", "Set Cover\Set Cover.csproj", "{C7AEE354-7854-4BF1-9096-42CF8E7F5C3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{022929D7-A0B6-4461-BADF-4DD3082F67F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{022929D7-A0B6-4461-BADF-4DD3082F67F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{022929D7-A0B6-4461-BADF-4DD3082F67F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7AEE354-7854-4BF1-9096-42CF8E7F5C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AEE354-7854-4BF1-9096-42CF8E7F5C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AEE354-7854-4BF1-9096-42CF8E7F5C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AEE354-7854-4BF1-9096-42CF8E7F5C3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
