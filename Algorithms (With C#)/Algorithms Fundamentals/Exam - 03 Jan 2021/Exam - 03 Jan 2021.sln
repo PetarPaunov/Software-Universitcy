@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. TBC", "01. TBC\01. TBC.csproj", "{9CBC9C77-4C9F-46A5-BB68-14C52B7D8040}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Socks", "02. Socks\02. Socks.csproj", "{39F80A78-4893-4BAD-865A-847BCE0B694F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9CBC9C77-4C9F-46A5-BB68-14C52B7D8040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CBC9C77-4C9F-46A5-BB68-14C52B7D8040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CBC9C77-4C9F-46A5-BB68-14C52B7D8040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F80A78-4893-4BAD-865A-847BCE0B694F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F80A78-4893-4BAD-865A-847BCE0B694F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F80A78-4893-4BAD-865A-847BCE0B694F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F80A78-4893-4BAD-865A-847BCE0B694F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
