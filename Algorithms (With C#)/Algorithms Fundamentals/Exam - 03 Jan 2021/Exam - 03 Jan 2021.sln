@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. TBC", "01. TBC\01. TBC.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Socks", "02. Socks\02. Socks.csproj", "{39F80A78-4893-4BAD-865A-847BCE0B694F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Path Finder", "03. Path Finder\03. Path Finder.csproj", "{2413D5C1-29E5-47BF-A1DB-B236A2E851D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{39F80A78-4893-4BAD-865A-847BCE0B694F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39F80A78-4893-4BAD-865A-847BCE0B694F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39F80A78-4893-4BAD-865A-847BCE0B694F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2413D5C1-29E5-47BF-A1DB-B236A2E851D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2413D5C1-29E5-47BF-A1DB-B236A2E851D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2413D5C1-29E5-47BF-A1DB-B236A2E851D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2413D5C1-29E5-47BF-A1DB-B236A2E851D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
