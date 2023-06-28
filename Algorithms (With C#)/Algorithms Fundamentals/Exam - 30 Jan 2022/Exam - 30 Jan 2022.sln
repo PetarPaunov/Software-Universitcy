@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Strings Mashup", "01. Strings Mashup\01. Strings Mashup.csproj", "{186E2F78-0F5A-40F6-8AB9-D1D5C6C03DEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rumors", "02. Rumors\02. Rumors.csproj", "{1D40E78E-1455-4420-85DF-EFF461739F04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{186E2F78-0F5A-40F6-8AB9-D1D5C6C03DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{186E2F78-0F5A-40F6-8AB9-D1D5C6C03DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{186E2F78-0F5A-40F6-8AB9-D1D5C6C03DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D40E78E-1455-4420-85DF-EFF461739F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D40E78E-1455-4420-85DF-EFF461739F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D40E78E-1455-4420-85DF-EFF461739F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D40E78E-1455-4420-85DF-EFF461739F04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
