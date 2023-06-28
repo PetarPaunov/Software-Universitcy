@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Trains", "01. Trains\01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Conditional Expression Resolver", "02. Conditional Expression Resolver\02. Conditional Expression Resolver.csproj", "{947B4731-795B-497C-823A-ED87D04BEE56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Guards", "03. Guards\03. Guards.csproj", "{845A5CE3-A141-4509-9AC7-A80246BADF12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{947B4731-795B-497C-823A-ED87D04BEE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{947B4731-795B-497C-823A-ED87D04BEE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{947B4731-795B-497C-823A-ED87D04BEE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845A5CE3-A141-4509-9AC7-A80246BADF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845A5CE3-A141-4509-9AC7-A80246BADF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845A5CE3-A141-4509-9AC7-A80246BADF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845A5CE3-A141-4509-9AC7-A80246BADF12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
