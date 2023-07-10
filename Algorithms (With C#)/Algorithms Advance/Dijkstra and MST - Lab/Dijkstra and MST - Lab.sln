@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Dijkstra's Algorithm", "01. Dijkstra's Algorithm\01. Dijkstra's Algorithm.csproj", "{1F6578EA-4027-4471-AB20-475880353FA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Kruskal's Algorithm", "02. Kruskal's Algorithm\02. Kruskal's Algorithm.csproj", "{5D6B9652-1CB3-4AED-9690-8FEE84F319E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1F6578EA-4027-4471-AB20-475880353FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F6578EA-4027-4471-AB20-475880353FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F6578EA-4027-4471-AB20-475880353FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6B9652-1CB3-4AED-9690-8FEE84F319E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6B9652-1CB3-4AED-9690-8FEE84F319E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6B9652-1CB3-4AED-9690-8FEE84F319E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6B9652-1CB3-4AED-9690-8FEE84F319E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
