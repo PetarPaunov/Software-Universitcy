@@ -61,12 +61,15 @@
 
                 foreach (var edge in graph[node])
                 {
-                    var newDistance = distance[edge.From] + edge.Weight;
+                    // distance[node] can be either distance[node] or distance[edge.From] 
+                    var newDistance = distance[node] + edge.Weight;
 
                     if (newDistance > distance[edge.To])
                     {
                         distance[edge.To] = newDistance;
-                        parent[edge.To] = edge.From;
+
+                        // node can be either "node" or "edge.From" 
+                        parent[edge.To] = node;
                     }
                 }
             }
