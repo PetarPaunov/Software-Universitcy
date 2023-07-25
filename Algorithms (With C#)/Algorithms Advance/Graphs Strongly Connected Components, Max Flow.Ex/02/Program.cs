@@ -4,7 +4,6 @@ namespace _02_
     using System;
     using System.Linq;
     using System.Collections.Generic;
-    using System.ComponentModel;
 
     internal class Program
     {
