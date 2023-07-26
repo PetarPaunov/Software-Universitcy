@@ -2,7 +2,7 @@
 {
     using System;
     using System.Linq;
-    using System.Runtime.Versioning;
+    using System.Collections.Generic;
 
     internal class Program
     {
