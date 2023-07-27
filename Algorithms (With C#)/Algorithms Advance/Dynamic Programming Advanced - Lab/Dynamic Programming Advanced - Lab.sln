@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Rod Cutting", "01. Rod 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. 0-1 Knapsack", "02. 0-1 Knapsack\02. 0-1 Knapsack.csproj", "{DE8873ED-4687-4BD3-A58C-DFE39893F119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Longest Increasing Subsequence", "03. Longest Increasing Subsequence\03. Longest Increasing Subsequence.csproj", "{0E5E007D-6517-4745-B252-AA4CEA495F92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DE8873ED-4687-4BD3-A58C-DFE39893F119}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE8873ED-4687-4BD3-A58C-DFE39893F119}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE8873ED-4687-4BD3-A58C-DFE39893F119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5E007D-6517-4745-B252-AA4CEA495F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5E007D-6517-4745-B252-AA4CEA495F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5E007D-6517-4745-B252-AA4CEA495F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5E007D-6517-4745-B252-AA4CEA495F92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
