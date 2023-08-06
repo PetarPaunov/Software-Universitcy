@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Cable Merchant", "01. C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Battle Points", "02. Battle Points\02. Battle Points.csproj", "{7BA441A9-1943-4EC0-90C6-A0B1B62580BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Longest String Chain", "03. Longest String Chain\03. Longest String Chain.csproj", "{D374683C-8895-43FE-BAE8-05A6EFD532E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7BA441A9-1943-4EC0-90C6-A0B1B62580BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BA441A9-1943-4EC0-90C6-A0B1B62580BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BA441A9-1943-4EC0-90C6-A0B1B62580BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D374683C-8895-43FE-BAE8-05A6EFD532E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D374683C-8895-43FE-BAE8-05A6EFD532E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D374683C-8895-43FE-BAE8-05A6EFD532E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D374683C-8895-43FE-BAE8-05A6EFD532E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
