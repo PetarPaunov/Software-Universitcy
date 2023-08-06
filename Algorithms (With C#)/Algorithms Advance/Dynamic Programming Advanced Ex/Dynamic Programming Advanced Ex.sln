@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Cable Merchant", "01. Cable Merchant\01. Cable Merchant.csproj", "{4B0D6938-A8BC-42CC-B1DF-B8DDB12E0607}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Battle Points", "02. Battle Points\02. Battle Points.csproj", "{7BA441A9-1943-4EC0-90C6-A0B1B62580BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4B0D6938-A8BC-42CC-B1DF-B8DDB12E0607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B0D6938-A8BC-42CC-B1DF-B8DDB12E0607}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B0D6938-A8BC-42CC-B1DF-B8DDB12E0607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA441A9-1943-4EC0-90C6-A0B1B62580BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA441A9-1943-4EC0-90C6-A0B1B62580BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA441A9-1943-4EC0-90C6-A0B1B62580BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA441A9-1943-4EC0-90C6-A0B1B62580BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

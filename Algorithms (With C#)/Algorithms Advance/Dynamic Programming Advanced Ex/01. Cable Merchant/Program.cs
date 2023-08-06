@@ -23,6 +23,8 @@
             memo = new int[prices.Count];
 
             CutRob(prices.Count - 1, connectorPrice);
+
+            Console.WriteLine(string.Join(' ', memo.Skip(1)));
         }
 
         private static int CutRob(int length, int connectorPrice)
