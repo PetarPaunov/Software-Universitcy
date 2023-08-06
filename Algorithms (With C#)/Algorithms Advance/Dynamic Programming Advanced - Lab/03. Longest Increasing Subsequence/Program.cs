@@ -49,11 +49,11 @@
                 }
             }
 
-            var lis = new List<int>();
+            var lis = new Stack<int>();
 
             while (bestIdx != -1)
             {
-                lis.Add(numbers[bestIdx]);
+                lis.Push(numbers[bestIdx]);
                 bestIdx = parent[bestIdx];
             }
 
