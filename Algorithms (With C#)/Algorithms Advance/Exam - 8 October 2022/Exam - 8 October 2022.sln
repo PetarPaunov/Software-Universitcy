@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Trains Part Two", "01. Trains Part Two\01. Trains Part Two.csproj", "{83B6511F-91B4-4225-A924-51D063C05B18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Creep", "02. Creep\02. Creep.csproj", "{93793A7A-37DC-4B15-9EC6-29E7E852DCB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{83B6511F-91B4-4225-A924-51D063C05B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83B6511F-91B4-4225-A924-51D063C05B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83B6511F-91B4-4225-A924-51D063C05B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93793A7A-37DC-4B15-9EC6-29E7E852DCB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93793A7A-37DC-4B15-9EC6-29E7E852DCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93793A7A-37DC-4B15-9EC6-29E7E852DCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93793A7A-37DC-4B15-9EC6-29E7E852DCB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
