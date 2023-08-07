@@ -39,7 +39,7 @@
                     }
 
                     if (prevNumber > currentNumber 
-                        && dp[0, prev] + 1 > dp[1, current])
+                        && dp[0, prev] + 1 >= dp[1, current])
                     {
                         dp[1, current] = dp[0, prev] + 1;
                         parent[1, current] = prev;
