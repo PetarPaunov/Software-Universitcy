@@ -29,7 +29,7 @@
                     var prevLen = bestLen[prev];
 
                     if (currentString.Length > prevString.Length &&
-                        prevLen + 1 > currentBestLen)
+                        prevLen + 1 >= currentBestLen)
                     {
                         currentBestLen = prevLen + 1;
                         currentParent = prev;
