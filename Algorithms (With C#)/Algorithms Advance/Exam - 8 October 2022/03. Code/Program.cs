@@ -49,16 +49,13 @@
                     x--;
                     y--;
                 }
+                else if (lsc[x - 1, y] > lsc[x, y - 1])
+                {
+                    x--;
+                }
                 else
                 {
-                    if (lsc[x, y - 1] > lsc[x - 1, y])
-                    {
-                        y--;
-                    }
-                    else
-                    {
-                        x--;
-                    }
+                    y--;
                 }
             }
 
